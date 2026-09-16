@@ -7318,7 +7318,7 @@ Address;Name;Id;Size;Comment
 "$E25D6";"Kennfeld für Adaptionsfaktor der I-Verstärkung";"PCR_facI_MAP";"4x10";""
 "$E264E";"Correction factor of D-parameter  according to engine speed and particle filter soot mass";"PCR_facmSotCorr_MAP";"8x10";""
 "$E17EA";"Gewichtungsfaktor über Drehzahl für Athmosphärendruckkorrektur";"PCR_facN_CUR";"6x1";""
-"$E2700";"Korrekturfaktor für maximal zulässige Stellgröße in Abhängigkeit des Staudrucks vor Partikelfilter";"PCR_facPresPFltMax_CUR";"8x1";""
+"$E2700";"Korrekturfaktor fur maximal zulaessige Stellgroesse in Abhaengigkeit des Staudrucks vor Partikelfilter";"PCR_facPresPFltMax_CUR";"8x1";""
 "$E2722";"Korrekturfaktor für minimal zulässige Stellgröße in Abhängigkeit des Staudrucks vor Partikelfilter";"PCR_facPresPFltMin_CUR";"8x1";""
 "$E2752";"Kennfeld für Adaptionsfaktor der P-Verstärkung";"PCR_facP_MAP";"4x10";""
 "$E39E4";"Sinusfunktion als Kennlinie";"PCR_facSin_CUR";"11x1";""
